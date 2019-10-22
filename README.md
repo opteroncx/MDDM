@@ -13,6 +13,6 @@
  5. scikit-image==0.13.1
 
 ## Test the model:
- *Put the images in ./data/TestingMoire
-    Run  (Fidelity)
-    python test_all.py --cuda --model ./mddm.pth
+    Put the images in ./data/TestingMoire 
+    Run  (Fidelity) 
+    python test_all.py --cuda --model ./mddm.pth 
