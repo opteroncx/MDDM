@@ -15,7 +15,9 @@
 ## Test the model:
     Put the images in ./data/TestingMoire 
     Run  (Fidelity) 
-    python test_all.py --cuda --model ./mddm.pth 
+    python test_all.py --cuda --model ./models/mddm.pth 
+    Run  (Perceptual)
+    python test_all.py --cuda --model ./models/mddmgan.pth
 
 ## Train:
 [WIP]
