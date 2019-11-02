@@ -1,4 +1,4 @@
-# Code for "Multi-scale Dynamic Feature Encoding Network for Image Demoireing" [ICCV2019 AIM Workshop][arxiv](https://arxiv.org/abs/1909.11947)
+# Code for "Multi-scale Dynamic Feature Encoding Network for Image Demoireing" [ICCV2019 AIM Workshop][[arxiv]](https://arxiv.org/abs/1909.11947)
 **MDDM is the 2nd place winner of AIM Demoireing Challenge-Fidelity**
 
 **Team: MoePhoto**
