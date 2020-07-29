@@ -1,7 +1,8 @@
 # Code for "Multi-scale Dynamic Feature Encoding Network for Image Demoireing" [ICCV2019 AIM Workshop][[arxiv]](https://arxiv.org/abs/1909.11947)
 **MDDM is the 2nd place winner of AIM Demoireing Challenge-Fidelity**
 -----------
-**[Update] An enhance version: MDDM+ will be uploaded**
+
+**[Update] An enhance version: MDDM+ will be released**
 -----------
 **Team: MoePhoto**
 **Team Members: Xi Cheng, Zhenyong Fu, Jian Yang**
